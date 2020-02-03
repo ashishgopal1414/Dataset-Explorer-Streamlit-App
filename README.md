@@ -1,2 +1,4 @@
 # Dataset-Explorer-Streamlit-App
-Exploratory Data Analysis Application Using Streamlit
+Exploratory Data Analysis Application Using Streamlit.
+
+# Installation
