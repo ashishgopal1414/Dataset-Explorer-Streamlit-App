@@ -3,4 +3,4 @@ Exploratory Data Analysis Application Using Streamlit.
 
 # Installation
 
-goto the directory of app.py
+In Terminal goto the directory of app.py
